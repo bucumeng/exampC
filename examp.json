@@ -1,0 +1,37 @@
+{
+  "araclar": {
+    "1": {
+      "id": 1,
+      "marka": "Toyota",
+      "model": "Corolla",
+      "yil": 2023,
+      "renk": "beyaz",
+      "km": 10000,
+      "motor_hacmi": 1600,
+      "yakit_turu": "benzin",
+      "vites_tipi": "otomatik",
+      "satis": {
+        "tarih": "2023-11-24",
+        "fiyat": 300000,
+        "musteri": {
+          "ad": "Ali",
+          "soyad": "Veli",
+          "telefon": "5554443322"
+        }
+      },
+      "bakim_gecmisi": [
+        {
+          "tarih": "2023-05-10",
+          "islem": "Yağ değişimi",
+          "km": 5000
+        },
+        {
+          "tarih": "2023-09-15",
+          "islem": "Fren balataları değişimi",
+          "km": 9000
+        }
+      ]
+    }
+  }
+}
+    

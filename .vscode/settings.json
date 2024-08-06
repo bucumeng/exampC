@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+
+    "cmake.cmakePath": "C:/Program Files/CMake/bin/cmake.exe"
+}
